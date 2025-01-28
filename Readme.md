@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
 
-A Python-based tool to capture, dissect, and analyze raw network packets at the protocol level. Designed for cybersecurity students and professionals, this project demonstrates low-level networking concepts and packet analysis techniques.
+A Python-based tool to capture, dissect, and analyze raw network packets at the protocol level. 
 
 ---
 
